@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="911dec9f-e800-4cd9-9669-ed96e6643e1d" name="Changes" comment="ajout page &quot;liste projets&quot; (src/pages/Projets.vue)">
-      <change afterPath="$PROJECT_DIR$/src/pages/Projets.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Default.vue" afterDir="false" />
+    <list default="true" id="911dec9f-e800-4cd9-9669-ed96e6643e1d" name="Changes" comment="test de projet (test.md)">
+      <change afterPath="$PROJECT_DIR$/content/projets/autre.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projets/test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/schema.graphql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Devoir\mmi\integ_web\tpgridsome\tp-gridsome\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Devoir\mmi\integ_web\tpgridsome\tp-gridsome" />
     </key>
   </component>
   <component name="RunManager">
@@ -69,9 +74,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.explore" />
         <item itemvalue="npm.develop" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.explore" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636729041007</updated>
       <workItem from="1636729044758" duration="62000" />
-      <workItem from="1636729111366" duration="1986000" />
+      <workItem from="1636729111366" duration="3479000" />
     </task>
     <task id="LOCAL-00001" summary="config ide graphql et schema">
       <created>1636730850129</created>
@@ -93,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636730850129</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout plugin markdown et filesystem">
+      <created>1636731191253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636731191253</updated>
+    </task>
+    <task id="LOCAL-00003" summary="configuration plugin markdown et filesystem">
+      <created>1636731270954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636731270954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +132,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="config ide graphql et schema" />
     <MESSAGE value="ajout page &quot;liste projets&quot; (src/pages/Projets.vue)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout page &quot;liste projets&quot; (src/pages/Projets.vue)" />
+    <MESSAGE value="ajout plugin markdown et filesystem" />
+    <MESSAGE value="configuration plugin markdown et filesystem" />
+    <MESSAGE value="test de projet (test.md)" />
+    <option name="LAST_COMMIT_MESSAGE" value="test de projet (test.md)" />
   </component>
 </project>
