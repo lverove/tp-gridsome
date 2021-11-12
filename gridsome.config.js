@@ -5,6 +5,15 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
-  plugins: []
+  siteName: 'La vie cela fonctionne',
+  plugins: [
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        baseDir: './content',
+        path: 'projets/*.md',
+        typeName: 'Projet',
+      }
+    },
+  ],
 }
